@@ -158,7 +158,7 @@ Despite the approve-all baseline already having high average profit (because fra
 A minimal structure for this repository is:
 
 ```text
-.
 ├── README.md               # This file
-├── final project.ipynb     # Main script implementing the pipeline 
-└── creditcard.csv          # Kaggle dataset
+├── final project.ipynb     # Main script implementing the pipeline
+
+
