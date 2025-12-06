@@ -160,6 +160,5 @@ A minimal structure for this repository is:
 ```text
 .
 ├── README.md               # This file
-├── final_project.pdf       # IEEE-style project report
 ├── final project.ipynb     # Main script implementing the pipeline 
 └── creditcard.csv          # Kaggle dataset
